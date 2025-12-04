@@ -1,6 +1,6 @@
 Licencia MIT
 
- Copyright (c) [2025] [Jose David Montilla Merino]
+ Copyright (c) 2025 Jose David Montilla Merino
  
  Por la presente se concede permiso, sin cargo, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricciones, incluidos, entre otros, los derechos usar, copiar, modificar, fusionar, publicar, distribuir, sublicenciar y/o vender copias del Software y permitir que las personas a quienes se dirige el Software dispuesto para ello, sujeto a las siguientes condiciones:
  El aviso de derechos de autor anterior y este aviso de permiso se incluirán en todos copias o porciones sustanciales del Software.
@@ -9,5 +9,5 @@ Licencia MIT
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYxNDMyNjE0NF19
+eyJoaXN0b3J5IjpbLTE4Mjg1OTg0NzZdfQ==
 -->
