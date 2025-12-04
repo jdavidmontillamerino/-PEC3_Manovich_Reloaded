@@ -21,6 +21,9 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 
 -   Manovich, Lev. (2013).  **El Software toma el mando**. Barcelona: Editorial UOC.
+----------
+
+Licencia: Material Creative Commons desarrollado bajo licencia CC BY-SA 4.0. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNDIwNDY1NzhdfQ==
+eyJoaXN0b3J5IjpbMTgwNDExMTc4MiwtMTM0MjA0NjU3OF19
 -->
