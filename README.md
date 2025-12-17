@@ -14,7 +14,7 @@ Fecha: Diciembre 2025
 
 ## · Qué es
 
-En tenis, una bola que cae rozando la línea puede decidir un set, un partido o una carrera. Históricamente, ese instante se resolvía con un pacto humano: jueces de línea observan, cantan “out” (o no), y el árbitro de silla gestiona la tensión. **Hawk-Eye** (y su despliegue como **Electronic Line Calling**, ELC) desplaza ese pacto hacia un sistema técnico: cámaras alrededor de la pista, procesamiento que reconstruye el bote y una salida inmediata (voz, marcador o animación) que dicta el veredicto.
+En tenis, una bola que cae rozando la línea puede decidir un set, un partido o una carrera. Históricamente, ese instante se resolvía con un pacto humano: jueces de línea observan, cantan “out” (o mantienen silencio *si la bola ha botado dentro*), y el árbitro de silla gestiona la tensión. **Hawk-Eye** (y su despliegue como **Electronic Line Calling**, ELC) desplaza ese pacto hacia un sistema técnico: cámaras alrededor de la pista, procesamiento que reconstruye el bote y una salida inmediata (voz, marcador o animación) que dicta el veredicto.
 
 La modalidad **Live ELC** lo deja especialmente claro: el reglamento ATP establece que _no hay jueces de línea_ y que _todas las líneas_ se cantan con el sistema Live ELC aprobado. ([ATP Tour](https://www.atptour.com/-/media/files/rulebook/2025/2025-rulebook_20may.pdf?utm_source=chatgpt.com "The 2025 ATP® Official Rulebook"))  
 
