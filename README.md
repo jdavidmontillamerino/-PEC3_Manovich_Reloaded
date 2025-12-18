@@ -7,7 +7,7 @@ Fecha: Diciembre 2025
 
 
 # Hawk-Eye en el tenis: cuando la línea se convierte en software
-![Imagen generada mediante Hawk-Eye en un torneo de tenis](images/jugadoras.jpg)
+![Imagen generada mediante Hawk-Eye en un torneo de tenis](images/Jugadoras.jpg)
 
 *Figura 1. Hawk-Eye “IN” en pantalla gigante (ilustración 3D generada, diciembre de 2025).*
 
