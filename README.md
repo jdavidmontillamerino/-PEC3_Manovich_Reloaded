@@ -56,7 +56,7 @@ Lo más interesante es que la tecnología no elimina el conflicto: lo desplaza. 
 
 # Tesla FSD: cuando la carretera se convierte en software
 
-[Vista urbana desde el interior de Tesla](images/interior-Tesla.png)
+![Vista urbana desde el interior de Tesla](images/interior2Tesla.jpg)
 
 *Figura 2. Interior de Tesla con nube de fórmulas (imagen generada, diciembre de 2025).*
 
