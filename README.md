@@ -2,8 +2,8 @@
 
 ### Ensayo sobre la hibridación en los casos del Hawk-Eye en el tenis y el FSD Tesla
 Autor: José David Montilla Merino
-
 Fecha: Diciembre 2025
+Asignatura:Cultura Digital
 
 
 
