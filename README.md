@@ -6,7 +6,7 @@ Fecha: Diciembre 2025
 
 
 
-# Hawk-Eye en el tenis: cuando la línea se convierte en software
+# Hawk-Eye en el tenis: del bote real al veredicto algorítmico.
 ![Imagen generada mediante Hawk-Eye en un torneo de tenis](images/Jugadoras.jpg)
 
 *Figura 1. Hawk-Eye “IN” en pantalla gigante (ilustración 3D generada, diciembre de 2025).*
@@ -53,7 +53,7 @@ Esta fusión crea un lenguaje nuevo. La línea deja de ser solo pintura blanca; 
 
 Lo más interesante es que la tecnología no elimina el conflicto: lo desplaza. Donde antes se discutía la visión o la imparcialidad, ahora se discuten la fiabilidad del sistema, sus protocolos y sus excepciones. Aun así, su impacto es innegable: reordena tiempos, roles y autoridad, y altera el relato emocional del partido. Mirado con Manovich, Hawk-Eye no es un complemento; es una nueva “especie” de arbitraje, un medio híbrido en el que **lo real se convierte en dato y el dato vuelve al juego como veredicto**.
 
-# Tesla FSD: cuando la carretera se convierte en software
+# Tesla FSD: cuando la carretera se convierte en software.
 
 ![Vista urbana desde el interior de Tesla](images/interior2Tesla.jpg)
 
