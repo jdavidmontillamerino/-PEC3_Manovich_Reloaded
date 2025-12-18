@@ -7,9 +7,9 @@ Fecha: Diciembre 2025
 
 
 # Hawk-Eye en el tenis: cuando la línea se convierte en software
-![Imagen generada mediante Hawk-Eye en un torneo de tenis](images/hawkeye-cam.jpg)
+![Imagen generada mediante Hawk-Eye en un torneo de tenis](images/jugadoras.jpg)
 
-*[Mvkulkarni23](https://commons.wikimedia.org/wiki/File:The_decision_of_In_or_Out_with_the_help_of_Technology_at_Wimbledon.jpg), [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0), via Wikimedia Commons
+*Figura 1. Hawk-Eye “IN” en pantalla gigante (ilustración 3D generada, diciembre de 2025).*
 
 ## · Qué es
 
@@ -107,9 +107,9 @@ Al igual que Hawk-Eye trasladaba la decisión de *dentro o fuera* a un sistema t
 - Chute Dkv. (s. f.). *Sistema Hawk Eye #hawkeye #tenis #deporte #datoscuriosos #shorts #ChuteDkv* [Video]. YouTube. Recuperado el 16 de diciembre de 2025, de https://youtube.com/shorts/Xnk2gWWY0dY  
 - International Tennis Federation. (2025). *Electronic Line-Calling Systems: Evaluation Procedures* (v28, June 2025). https://www.itftennis.com/media/14686/elc-evaluation-procedures-v28-june-2025.pdf  
 - International Tennis Federation. (2025, July 23). *New classification tiers for electronic line calling systems*. https://www.itftennis.com/en/news-and-media/articles/new-classification-tiers-for-electronic-line-calling-systems/  
-- Manovich, Lev. _El software toma el mando_, Editorial UOC, 2013. _ProQuest Ebook Central_, https://ebookcentral.proquest.com/lib/bibliouocsp-ebooks/detail.action?docID=4735140. 
-- Mvkulkarni23. (s. f.). *The decision of In or Out with the help of Technology at Wimbledon* [Photograph]. Wikimedia Commons. https://commons.wikimedia.org/wiki/File:The_decision_of_In_or_Out_with_the_help_of_Technology_at_Wimbledon.jpg 
+- Manovich, Lev. _El software toma el mando_, Editorial UOC, 2013. _ProQuest Ebook Central_, https://ebookcentral.proquest.com/lib/bibliouocsp-ebooks/detail.action?docID=4735140.  
 - OpenAI. (2025). *Interior de Tesla con nube de fórmulas* [Imagen generada]. ChatGPT. Recuperado en diciembre de 2025.
+- OpenAI. (2025). *Hawk-Eye “IN” en pantalla gigante con jugadoras (ilustración 3D)* [Imagen generada]. ChatGPT. Recuperado en diciembre de 2025.
  
 -  Tesla. (2025, Junio). *Tesla Delivers Itself to New Owner* [Video]. YouTube. Recuperado  de https://youtu.be/GU16hXSSGKs
 
